@@ -9,6 +9,9 @@
   <img src="https://github.com/user-attachments/assets/d74d055d-f826-49d9-9cfd-281d20365a86" alt="Image 2" width="45%">
 </p>
 
+# Product Sales Analysis
+<img width="457" alt="Product Sales Visualization" src="https://github.com/user-attachments/assets/060b8c8a-0376-491d-acbc-38131fe403f0">
+
 # USA Road Accidents Dashboard
 
 ![USA](https://github.com/ZAHIRA201/Power-BI-Dashboards/assets/120922044/bd8afc2c-94b9-4337-a857-de33a11ec299)
