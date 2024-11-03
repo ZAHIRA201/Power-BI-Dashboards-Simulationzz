@@ -2,7 +2,7 @@
 
 ![drone](https://github.com/ZAHIRA201/Power-BI-Dashboards/assets/120922044/a2593ddf-3354-4300-af14-90c357eb4938)
 
-# CA's
+# CA's Analysis
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ca701d13-2d4f-45c2-bfb6-ef551417f19d" alt="Image 1" width="45%">
