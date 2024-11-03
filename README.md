@@ -10,7 +10,7 @@
 </p>
 
 # Product Sales Analysis
-<img width="800" alt="Product Sales Visualization" src="https://github.com/user-attachments/assets/1021f9e6-49c7-465b-bde5-75bcb377e055">
+<img width="1000" alt="Product Sales Visualization" src="https://github.com/user-attachments/assets/1021f9e6-49c7-465b-bde5-75bcb377e055">
 
 # USA Road Accidents Dashboard
 
