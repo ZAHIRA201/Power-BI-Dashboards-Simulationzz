@@ -1,3 +1,7 @@
+# Mental Health & Stress Insights 
+
+![image](https://github.com/user-attachments/assets/b2da2d20-b1a2-45d5-b6db-7ff5e5a67d5e)
+
 # Drone Patent Analysis Dashboard
 
 ![drone](https://github.com/ZAHIRA201/Power-BI-Dashboards/assets/120922044/a2593ddf-3354-4300-af14-90c357eb4938)
